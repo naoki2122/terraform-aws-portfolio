@@ -12,7 +12,7 @@ EC2起動時にApache/Nginxを自動インストールし、Webページを自�
 
 \## 構成図
 
-!\[architecture](architecture.png)
+!\[構成図](./architecture.png)
 
 
 
