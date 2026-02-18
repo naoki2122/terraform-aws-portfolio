@@ -49,9 +49,10 @@ EC2起動時にApache/Nginxを自動インストールし、Webページを自�
 ```bash
 
 terraform init
-
+terraform fmt
+terraform validate
+terraform plan
 terraform apply
-
 terraform destroy
 
 
