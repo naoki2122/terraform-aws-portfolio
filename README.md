@@ -5,6 +5,8 @@
 \## 概要
 
 Terraformを用いてAWS環境（VPC, Subnet, EC2, Security Group）を自動構築するポートフォリオです。
+EC2起動時にApache/Nginxを自動インストールし、Webページを自動表示する構成。
+
 
 
 
