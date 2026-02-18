@@ -12,7 +12,7 @@ EC2起動時にApache/Nginxを自動インストールし、Webページを自�
 
 \## 構成図
 
-!\[構成図](https://raw.githubusercontent.com/naoki2122/terraform-aws-portfolio/main/architecture.png)
+![構成図]()
 
 
 
